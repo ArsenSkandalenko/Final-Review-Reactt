@@ -1,4 +1,4 @@
-# Final-Review-Reactt
+# Final-Review-React
 
 Final review react
 
@@ -19,17 +19,17 @@ Instructions for Launch:
 Clone the repository:
 
 bash
-Копіювати код
+copy code
 cd your-project
 Install the dependencies:
 
 bash
-Копіювати код
+copy code
 npm install
 Run the app in development mode:
 
 bash
-Копіювати код
+copy code
 npm start
 Open the app in your browser at http://localhost:3000.
 
